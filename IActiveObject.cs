@@ -1,6 +1,6 @@
-using WebAstra.Threading;
+using Application.Core.Patterns;
 
-namespace WebAstra.Application.Core.Patterns.ActiveObject
+namespace Application.Core.Patterns.ActiveObject
 {
     /// <summary>
     /// Active Object (runnable) interface
